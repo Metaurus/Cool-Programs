@@ -6,7 +6,7 @@ STATUS: Complete and Runnable
 
 Last Updated: 2022-4-7
 
-SmoothNoise.java is a program that, given a set of command line arguments, produces a corresponding visual of noise that has a smooth characteristic, similar to Perlin Noise. Though, this method does notincorporate the Perlin Noise algorithm, but uses a simpler calculation that I developed myself (though I doubt I'm the first person to come up with this algorithm). In particular, it generates a random brightness weight of every pixel using its adjacent pixels as a reference point.
+SmoothNoise.java is a program that, given a set of command line arguments, produces a corresponding visual of noise that has a smooth characteristic, similar to Perlin Noise. Though, this method does not incorporate the Perlin Noise algorithm, but uses a simpler calculation that I developed myself (though I doubt I'm the first person to come up with this algorithm). In particular, it generates a random brightness weight of every pixel using its adjacent pixels as a reference point.
 
 This program requires the user to have Java installed on their system.
 
