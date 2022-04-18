@@ -2,7 +2,7 @@ ADVANCED CALCULATOR
 
 Language: Java
 
-STATUS: Complete and Runnable
+STATUS: Partially Complete and Runnable
 
 Last Updated: 2022-4-18
 
