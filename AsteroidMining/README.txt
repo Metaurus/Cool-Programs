@@ -6,7 +6,7 @@ STATUS: Complete and Runnable
 
 Last Updated: 2022-4-18
 
-AsteroidMining.java is a very simple program that solves the asteroid mining problem. When the program is run, it will continuosly take a String input stream and convert it into an int. This program was written for an online job interview for an intership position at a software company (its name will be kept private).
+AsteroidMining.java is a very simple program that solves the asteroid mining problem. When the program is run, it will continuosly take a String input stream and convert it into an int. This program was written for an online job interview for an intership position at a software company.
 
 Asteroid Mining Problem:
 A robot is capable of mining one gram of mineral per day. It also has the ability to construct another robot. That new robot becomes available for use the next day and can be involved in mining or can be used to construct yet another robot.
